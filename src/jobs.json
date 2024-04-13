@@ -1,0 +1,172 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Junior Python Developer",
+      "type": "Part-Time",
+      "location": "Milan, IT",
+      "description": "Join our team as a Junior Python Developer in the beautiful city of Milan, Italy. We are looking for a passionate individual with a strong foundation in Python programming. This is an excellent opportunity to grow your skills and contribute to exciting projects.",
+      "salary": "€25K - €35K",
+      "company": {
+        "name": "Italian Tech Solutions",
+        "description": "Italian Tech Solutions is a leading technology company in Italy, providing innovative solutions to businesses across various industries. We foster a collaborative and dynamic work environment where creativity thrives.",
+        "contactEmail": "contact@italiantech.it",
+        "contactPhone": "+39 02 1234 5678"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in London, UK. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "location": "London, UK",
+      "salary": "€60K - €70K",
+      "company": {
+        "name": "BritTech Solutions",
+        "description": "BritTech Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@brittech.co.uk",
+        "contactPhone": "+44 20 1234 5678"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Data Engineer",
+      "type": "Full-Time",
+      "location": "Paris, FR",
+      "description": "Join our team as a Data Engineer in the heart of Paris, France. We are looking for an experienced professional with a strong background in data analysis, database management, and ETL processes. Competitive salary and benefits package available.",
+      "salary": "€65K - €75K",
+      "company": {
+        "name": "French DataTech",
+        "description": "French DataTech is a leading data analytics company providing innovative solutions to businesses worldwide. Join us in shaping the future of data-driven insights.",
+        "contactEmail": "contact@frenchdata.com",
+        "contactPhone": "+33 1 2345 6789"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Angular Developer",
+      "type": "Full-Time",
+      "location": "Berlin, GER",
+      "description": "Are you passionate about front-end development? Join our team in vibrant Berlin, Germany, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "salary": "€55K - €65K",
+      "company": {
+        "name": "German WebWorks",
+        "description": "German WebWorks specializes in creating cutting-edge web solutions for businesses of all sizes. Join our team of innovative developers and shape the future of web technologies.",
+        "contactEmail": "contact@germanwebworks.de",
+        "contactPhone": "+49 30 1234 5678"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Front-End Developer (React & Redux)",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Front-End Developer in beautiful Madrid, Spain. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "location": "Madrid, ESP",
+      "salary": "€45K - €55K",
+      "company": {
+        "name": "Spanish WebSolutions",
+        "description": "Spanish WebSolutions is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "contact@spanishwebsolutions.es",
+        "contactPhone": "+34 91 234 5678"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Amsterdam, Netherlands. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "location": "Amsterdam, NL",
+      "salary": "€70K - €80K",
+      "company": {
+        "name": "DutchTech Innovations",
+        "description": "DutchTech Innovations is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@dutchtech.nl",
+        "contactPhone": "+31 20 1234 5678"
+      }
+    },
+    {
+      "id": "7",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in beautiful Lisbon, Portugal. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Lisbon, PT",
+      "salary": "€55K - €65K",
+      "company": {
+        "name": "Portuguese CodeWorks",
+        "description": "Portuguese CodeWorks is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@portuguesecodeworks.pt",
+        "contactPhone": "+351 21 234 5678"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Senior Java Developer",
+      "type": "Full-Time",
+      "location": "Berlin, GER",
+      "description": "We're hiring a Senior Java Developer to join our team in Berlin, Germany. You'll be responsible for designing, implementing, and maintaining Java applications. If you're passionate about Java and want to work in a collaborative environment, apply now!",
+      "salary": "€70K - €80K",
+      "company": {
+        "name": "Berlin Tech Solutions",
+        "description": "Berlin Tech Solutions is a leading software development company, specializing in innovative solutions for businesses worldwide. Join our diverse team of experts and contribute to cutting-edge projects.",
+        "contactEmail": "contact@berlintech.de",
+        "contactPhone": "+49 30 9876 5432"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Machine Learning Engineer",
+      "type": "Full-Time",
+      "location": "Paris, FR",
+      "description": "We're seeking a Machine Learning Engineer to join our team in Paris, France. You'll be working on developing and implementing machine learning algorithms to solve complex problems. If you're passionate about AI and want to make an impact, apply now!",
+      "salary": "€75K - €85K",
+      "company": {
+        "name": "Paris AI Solutions",
+        "description": "Paris AI Solutions is a leading AI company, specializing in developing innovative solutions for various industries. Join our dynamic team and be part of shaping the future of AI.",
+        "contactEmail": "contact@parisai.fr",
+        "contactPhone": "+33 1 8765 4321"
+      }
+    },
+    {
+      "id": "10",
+      "title": "UX/UI Designer",
+      "type": "Full-Time",
+      "location": "Barcelona, ESP",
+      "description": "Join our team as a UX/UI Designer in sunny Barcelona, Spain. You'll be responsible for creating intuitive and visually appealing user interfaces. If you're passionate about design and want to work in a vibrant city, apply now!",
+      "salary": "€55K - €65K",
+      "company": {
+        "name": "Barcelona Design Studio",
+        "description": "Barcelona Design Studio is a creative agency, specializing in creating impactful designs for digital products. Join our passionate team and unleash your creativity.",
+        "contactEmail": "contact@barcelonadesign.es",
+        "contactPhone": "+34 93 6789 1234"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Cybersecurity Analyst",
+      "type": "Full-Time",
+      "location": "Rome, IT",
+      "description": "We're hiring a Cybersecurity Analyst to join our team in Rome, Italy. You'll be responsible for monitoring and analyzing security threats, implementing security measures, and ensuring the protection of our systems. If you're passionate about cybersecurity and want to make a difference, apply now!",
+      "salary": "€65K - €75K",
+      "company": {
+        "name": "Rome Security Solutions",
+        "description": "Rome Security Solutions is a leading cybersecurity company, specializing in providing comprehensive security solutions for businesses. Join our dedicated team and help us safeguard our digital assets.",
+        "contactEmail": "contact@romesecurity.it",
+        "contactPhone": "+39 06 7890 4321"
+      }
+    },
+    {
+      "id": "12",
+      "title": "iOS Developer",
+      "type": "Full-Time",
+      "location": "Amsterdam, NL",
+      "description": "Join our team as an iOS Developer in Amsterdam, Netherlands. You'll be responsible for designing and developing innovative iOS applications. If you're passionate about mobile development and want to work in a dynamic environment, apply now!",
+      "salary": "€60K - €70K",
+      "company": {
+        "name": "Amsterdam AppWorks",
+        "description": "Amsterdam AppWorks is a mobile app development company, specializing in creating cutting-edge iOS and Android applications. Join our talented team and be part of creating impactful mobile solutions.",
+        "contactEmail": "contact@amsterdamapp.nl",
+        "contactPhone": "+31 20 5678 9012"
+      }
+    }
+  ]
+}
